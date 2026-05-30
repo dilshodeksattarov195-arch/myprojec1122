@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchconnect",
+        "uuid": 9967848,
+        "checksum": "209jhv"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
